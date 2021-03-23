@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.DS_Store
+*.log
+env/
+#.env
+.vscode/launch.json
+*.vs
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
+.env.production
+#.env.staging
+dev-deploy.bat
+.vs/
+.idea/

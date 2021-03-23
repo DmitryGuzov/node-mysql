@@ -1,0 +1,11 @@
+DELETE http://localhost:3001/api/project/delete?id=33de1861-6066-4bf6-88dd-648c80d83d18
+content-type: application/json
+
+{  
+    "name": "Super Horse Female2222",
+    "dateOfBirth": "10.05.1999",
+    "sex": 1,
+    "isFemale": true,
+    "pregnant": false,
+    "dueDate": null
+}

@@ -1,0 +1,4 @@
+GET http://localhost:3001/api/project/paginate?page=1&limit=10&search=
+content-type: application/json
+
+{}

@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/project/update?id=96524ad9-41cb-4221-9b9d-337be7e5b3b7
+content-type: application/json
+
+{  
+    "name": "Updated22",
+    "dateOfBirth": "01.01.2001",
+    "sex": 1,
+    "isFemale": true,
+    "pregnant": false,
+    "dueDate": null
+}

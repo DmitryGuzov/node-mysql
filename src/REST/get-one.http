@@ -1,0 +1,4 @@
+GET http://localhost:3001/api/project/horse?id=970ee7b5-02e7-44ba-84c3-93c27fb38105
+content-type: application/json
+ 
+{}

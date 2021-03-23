@@ -1,0 +1,23 @@
+POST http://localhost:3001/api/project/create
+content-type: application/json
+
+{  
+    "name": "Create Horse 1 checlc",
+    "dateOfBirth": "10.05.2000",
+    "sex": 1,
+    "isFemale": true,
+    "pregnant": false,
+    "dueDate": null
+}
+###
+POST http://localhost:3001/api/project/create
+content-type: application/json
+
+{  
+    "name": "Update Horse  asdasd2",
+    "dateOfBirth": "10.05.2000",
+    "sex": 1,
+    "isFemale": true,
+    "pregnant": false,
+    "dueDate": null
+}
